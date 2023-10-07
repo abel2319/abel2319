@@ -7,12 +7,10 @@
 <h2 align="center">A Software Engineer and Data Scientist. 💻</h2>
 
 <div style="display:flex; justify-content:space-between">
-<div style="padding-top:5.000%;position:relative; width:40%;display:flex">
+<div style="padding-top:5.000%;position:relative; width:100%;display:flex">
 <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/>
 </div>
-<div style="padding-top:5.000%;position:relative; width:40%;display:flex">
-<img src="https://media.tenor.com/IQ6Z-aPhr1wAAAAd/date-everywhere-data.gif"/>
-</div>
+
 </div>
 
 
