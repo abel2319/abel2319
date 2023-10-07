@@ -7,10 +7,10 @@
 <h2 align="center">A Software Engineer and Data Scientist. 💻</h2>
 
 <div style="display:flex; justify-content:space-between">
-<div style="padding-top:5.000%;position:relative; width:200px;display:flex">
+<div style="padding-top:5.000%;position:relative; width:40%;display:flex">
 <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/>
 </div>
-<div style="padding-top:5.000%;position:relative; width:200px;display:flex">
+<div style="padding-top:5.000%;position:relative; width:40%;display:flex">
 <img src="https://media.tenor.com/IQ6Z-aPhr1wAAAAd/date-everywhere-data.gif"/>
 </div>
 </div>
@@ -51,9 +51,10 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <br>
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abel2319&langs_count=10&show_icons=true&theme=algolia&locale=en&layout=compact" alt="abel2319" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abel2319&show_icons=true&theme=algolia&locale=en" alt="abel2319" /></p>
