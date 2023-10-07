@@ -7,7 +7,7 @@
 <h2 align="center">A Software Engineer and Data Scientist. 💻</h2>
 
 <div style="display:flex; justify-content:space-between">
-<div style="padding-top:5.000%;position:relative; width:100%;display:flex">
+<div style="padding-top:5.000%;position:relative; width:50%;display:flex">
 <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/>
 </div>
 
